@@ -58,5 +58,3 @@ A special thank you to **Stefan vd** for creating this useful tool! Your efforts
 ## Disclaimer
 This script is provided as-is. Use at your own risk. The author is not responsible for any issues that may arise from the use of this script.
 
-## License
-[Specify your license here, if applicable]
