@@ -52,6 +52,9 @@ For contributions or inquiries, please contact the original author:
 
 Feel free to submit issues or pull requests if you have suggestions for improvements or modifications.
 
+## Thank You
+A special thank you to **Stefan vd** for creating this useful tool! Your efforts in helping users manage Chrome policies are greatly appreciated.
+
 ## Disclaimer
 This script is provided as-is. Use at your own risk. The author is not responsible for any issues that may arise from the use of this script.
 
